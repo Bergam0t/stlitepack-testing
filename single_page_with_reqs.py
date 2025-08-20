@@ -9,8 +9,8 @@ st.title("stlitepack Test App")
 # Create a sample dataframe
 np.random.seed(42)
 df = pd.DataFrame({
-    "x": np.arange(10),
-    "y": np.random.randn(10).cumsum(),
+    "x": np.arange(20),
+    "y": np.random.randn(20).cumsum(),
     "category": np.random.choice(["A", "B"], size=10)
 })
 
