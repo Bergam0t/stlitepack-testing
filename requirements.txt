@@ -1,1 +1,1 @@
-stlitepack==0.4.4
+stlitepack==0.4.5
