@@ -1,5 +1,1 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
+stlitepack==0.4.4
